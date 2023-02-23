@@ -1,2 +1,5 @@
 user_name = input("Please, enter your name: ")
 print(user_name.title())
+print(user_name.upper())
+print(user_name.lower())
+print(user_name.lower().capitalize())
