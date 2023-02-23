@@ -11,5 +11,5 @@ temporibus at voluptas suscipit laboriosam rerum ea, quibusdam nesciunt maiores
 quas necessitatibus fugit veniam, molestiae inventore dignissimos voluptatum
 libero enim natus! Cum, corrupti ad."""
 print(text.find("ad"))
-
+print(text.replace("ad", ""))
 print(text.replace("Lorem", "Hey you"))
